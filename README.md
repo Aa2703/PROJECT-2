@@ -1,7 +1,7 @@
 # PROJECT-2
 
 
-### 2. **Speech Emotion Recognition Project README**
+###  **Speech Emotion Recognition Project README**
 
 # Speech Emotion Recognition using Machine Learning
 
